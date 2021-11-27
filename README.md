@@ -1,4 +1,4 @@
-# notion-new-task-alfred-workflow
+# notion-new-task-alfred
 
 An Alfred workflow to quickly add a page to a database.
 
@@ -34,7 +34,11 @@ In the Alfred worfklow in the upper right corner click the `[x]` icon and add th
 
 ![Screenshot of where to add the variables](alfred_variables.png)
 
-## Downloading/Installing
+## Download
+
+Drop this workflow straight into the Workflows section of Alfred.
+
+[Add.page.to.Notion.database.alfredworkflow](https://github.com/rjjfox/notion-new-task-alfred/releases/download/Latest/Add.page.to.Notion.database.alfredworkflow)
 
 ## Troubleshooting
 
